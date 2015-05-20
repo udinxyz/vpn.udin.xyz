@@ -21,7 +21,7 @@ description: "An Augmented Reality web framework."
 source_link: "https://argonjs.io"
 favicon:     "img/favicon.png"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: "UA-63191442-1"
+google_analytics_key: "UA-63191442-2"
 
 
 ### template colors, used site-wide via css ###

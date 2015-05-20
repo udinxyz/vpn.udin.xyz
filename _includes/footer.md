@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
+Designed with on 
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-this site is [open source]({{ site.source_link }})
+this site Copyright &copy; Georgia Tech Research Corporation, available as [open source]({{ site.source_link }})
 

@@ -15,13 +15,13 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
+title:       "argon.js"
+keywords:    "argon, augmented reality, web, javascript"
+description: "An Augmented Reality web framework."
+source_link: "https://argonjs.io"
+favicon:     "img/favicon.png"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-63191442-1"
 
 
 ### template colors, used site-wide via css ###
@@ -33,4 +33,6 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  
+  gtgold:    '#E0A01F'
+  gtnavy:    '#01192F'
+  gtmetallic '#A08452'

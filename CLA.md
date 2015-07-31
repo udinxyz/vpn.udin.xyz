@@ -1,10 +1,12 @@
-## We will be using an automated CLA scheme when we open-source the project, but for now here is the CLA we plan on using
-
-Georgia Tech Research Corporation
-Individual Contributor License Agreement ("Agreement")
-                   
+## Georgia Tech Research Corporation
+### Individual Contributor License Agreement ("Agreement")
+    
 Thank you for your interest in Georgia Tech Research Corporation (“GTRC”) software. In order to clarify the intellectual property license granted with Contributions from any person or entity, GTRC must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. 
-This license is for your protection as a Contributor as well as the protection of GTRC and its users; it does not change your rights to use your own Contributions for any other purpose. If you have not already done so, please complete and sign, then scan and email a pdf file of this Agreement to industry@gatech.edu. If necessary, send an original signed Agreement to Georgia Tech Research Corporation, Attn: Director of Licensing, 505 10th Street NW, Atlanta, Georgia 30332-0415, U.S.A. 
+
+This license is for your protection as a Contributor as well as the protection of GTRC and its users; it does not change your rights to use your own Contributions for any other purpose. 
+
+If you have not already done so, please complete and sign this CLA.  **You may sign this CLA electronically [using this form](https://docs.google.com/forms/d/1wl5Rg7ishq6nsfbMVoif6322NOzhjdyryHvxmiCQITc/viewform?c=0&w=1&usp=mail_form_link)**, or you may print, then scan and email a pdf file of this Agreement to industry@gatech.edu. If necessary, send an original signed Agreement to Georgia Tech Research Corporation, Attn: Director of Licensing, 505 10th Street NW, Atlanta, Georgia 30332-0415, U.S.A. 
+
 Please read this document carefully before signing and keep a copy for your records.
 
   Full name: ______________________________________________________
@@ -20,6 +22,7 @@ Please read this document carefully before signing and keep a copy for your reco
 
   E-Mail:    ______________________________________________________
 
+  Github id: ______________________________________________________
 
 
 

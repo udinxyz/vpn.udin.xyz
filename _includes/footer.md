@@ -24,14 +24,8 @@ this site Copyright &copy; Georgia Tech Research Corporation, available as [open
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-github fa-stack-1x" style="color: black;"></i>
 </span></a>
-<a href="https://www.facebook.com/argonbrowser">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-facebook fa-stack-1x" style="color: black;"></i>
-</span></a>
 <a href="http://argon.gatech.edu">
 <span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-home fa-stack-1x" style="color: black;"></i>
 </span></a>
-

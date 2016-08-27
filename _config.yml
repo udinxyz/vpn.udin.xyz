@@ -18,8 +18,8 @@ title:       "argon.js"
 keywords:    "argon, augmented reality, web, javascript"
 description: "An Augmented Reality web framework."
 source_link: "https://github.com/argonjs"
-favicon:     "img/favicon.png"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon-96x96.png"
+touch_icon:  "img/apple-icon-180x180.png"
 google_analytics_key: "UA-63191442-2"
 
 

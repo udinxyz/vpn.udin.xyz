@@ -6,6 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
+include: [_redirects]
 exclude: [CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 permalink: /:title ## disables post output
 timezone: null

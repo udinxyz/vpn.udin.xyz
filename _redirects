@@ -1,2 +1,2 @@
-/docs     https://argonjs-docs.netlify.com/ 200
-/docs/*   https://argonjs-docs.netlify.com/:splat 200
+/docs     https://argonjs-docs.netlify.com/ 302
+/docs/*   https://argonjs-docs.netlify.com/:splat 302

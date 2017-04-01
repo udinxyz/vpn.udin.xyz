@@ -1,6 +1,7 @@
 /docs     https://argonjs-docs.netlify.com/ 302
 /docs/*   https://argonjs-docs.netlify.com/:splat 302
 
+/samples     https://argonjs.netlify.com/samples/ 302
 /samples/*   https://argonjs-samples.netlify.com/:splat 200
 
 /argon-aframe     https://argonjs-argon-aframe.netlify.com/ 200

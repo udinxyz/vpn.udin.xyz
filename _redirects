@@ -2,10 +2,10 @@
 /docs/*   https://argonjs-docs.netlify.com/:splat 302
 
 /samples     https://argonjs-samples.netlify.com/index.html 200
-/samples/*   https://argonjs-samples.netlify.com/:splat 200
+/samples/*   https://argonjs-samples.netlify.com/samples/:splat 200
 
 /argon-aframe     https://argonjs-argon-aframe.netlify.com/index.html 200
-/argon-aframe/*   https://argonjs-argon-aframe.netlify.com/:splat 200
+/argon-aframe/*   https://argonjs-argon-aframe.netlify.com/argon-aframe/:splat 200
 
 /argon-app     https://argonjs-argon-app.netlify.com/index.html 200
-/argon-app/*   https://argonjs-argon-app.netlify.com/:splat 200
+/argon-app/*   https://argonjs-argon-app.netlify.com/argon-app/:splat 200

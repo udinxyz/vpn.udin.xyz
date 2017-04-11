@@ -12,3 +12,8 @@
 
 /design-tools/*   https://design-tools.argonjs.io/:splat 301
 /design-tools     https://design-tools.argonjs.io/index.html 301
+
+/argon     https://api.argonjs.io/ 301
+/argon/*   https://api.argonjs.io/:splat 301
+/api     https://api.argonjs.io/ 301
+/api/*   https://api.argonjs.io/:splat 301

@@ -9,3 +9,6 @@
 
 /argon-app/*   https://app.argonjs.io/:splat 301
 /argon-app     https://app.argonjs.io/index.html 301
+
+/design-tools/*   https://design-tools.argonjs.io/:splat 301
+/design-tools     https://design-tools.argonjs.io/index.html 301

@@ -1,9 +1,11 @@
 
 
-Designed with on 
+Design based on 
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-this site Copyright &copy; Georgia Tech Research Corporation, available as [open source]({{ site.source_link }})
+Copyright &copy; Georgia Tech Research Corporation
+&mdash; 
+Hosted on [Netlify](https://netlify.com)
 
 <a href="https://twitter.com/argonbrowser"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>

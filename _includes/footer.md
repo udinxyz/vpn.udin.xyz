@@ -1,13 +1,11 @@
-
-
+Copyright &copy; Georgia Tech Research Corporation
+<br> 
 Design based on 
 [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-Copyright &copy; Georgia Tech Research Corporation
-&mdash; 
 Hosted on [Netlify](https://netlify.com)
 
-<a href="https://twitter.com/argonbrowser"><span class="fa-stack fa-lg">
+<a href="https://twitter.com/argonjs"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-twitter fa-stack-1x" style="color: black;"></i>
 </span></a>
@@ -35,4 +33,9 @@ Hosted on [Netlify](https://netlify.com)
 <span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-apple fa-stack-1x" style="color: black;"></i>
+</span></a>
+<a href="https://play.google.com/store/apps/details?id=edu.gatech.argon4">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-android fa-stack-1x" style="color: black;"></i>
 </span></a>
